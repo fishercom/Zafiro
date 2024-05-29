@@ -4,9 +4,9 @@ public class Field : BaseEntity
 {
     public Guid SchemaId { get; set; }
 
-    public string Name { get; set; } = string.Empty;
-    public string Attributes { get; set; } = string.Empty;
-    public string Slug { get; set; }
+    public required string Name { get; set; } = string.Empty;
+    public string? Attributes { get; set; } = string.Empty;
+    public required string Slug { get; set; }
     public enum FieldType {
         Text,
         Numeric,
@@ -19,6 +19,6 @@ public class Field : BaseEntity
         Html,
     }
 
-    public Schema Schema { get; set; }
+    public required Schema Schema { get; set; }
 
 }

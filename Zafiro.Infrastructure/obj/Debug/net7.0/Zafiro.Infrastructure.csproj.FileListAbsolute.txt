@@ -8,8 +8,11 @@
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.AssemblyInfoInputs.cache
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.AssemblyInfo.cs
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.csproj.CoreCompileInputs.cache
-/Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.csproj.CopyComplete
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.dll
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/refint/Zafiro.Infrastructure.dll
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.pdb
 /Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/ref/Zafiro.Infrastructure.dll
+/Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/bin/Debug/net7.0/Zafiro.Infrastructure.runtimeconfig.json
+/Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.genruntimeconfig.cache
+/Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.Infrastructure.sourcelink.json
+/Users/fischer/Projects/Zafiro/Zafiro.Infrastructure/obj/Debug/net7.0/Zafiro.I.50C68939.Up2Date

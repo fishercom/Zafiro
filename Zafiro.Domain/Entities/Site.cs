@@ -2,6 +2,6 @@
 
 public class Site : BaseEntity
 {
-    public string Name { get; set; }
-    public string Url { get; set; }
+    public required string Name { get; set; }
+    public string? Url { get; set; }
 }

@@ -1,7 +1,6 @@
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/bin/Debug/net7.0/Zafiro.Domain.deps.json
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/bin/Debug/net7.0/Zafiro.Domain.dll
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/bin/Debug/net7.0/Zafiro.Domain.pdb
-/Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/Zafiro.Domain.csproj.AssemblyReference.cache
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/Zafiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/Zafiro.Domain.AssemblyInfoInputs.cache
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/Zafiro.Domain.AssemblyInfo.cs
@@ -10,3 +9,4 @@
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/refint/Zafiro.Domain.dll
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/Zafiro.Domain.pdb
 /Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/ref/Zafiro.Domain.dll
+/Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/Debug/net7.0/Zafiro.Domain.sourcelink.json

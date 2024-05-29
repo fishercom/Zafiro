@@ -3,8 +3,8 @@
 public class Form : BaseEntity
 {
     public Guid SiteId { get; set; }
-    public string Name { get; set; }
-    public string Slug { get; set; }
+    public required string Name { get; set; }
+    public required string Slug { get; set; }
 
-    public Site Site { get; set; }
+    public required Site Site { get; set; }
 }
