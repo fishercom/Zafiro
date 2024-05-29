@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fischer/Projects/Zafiro/Zafiro.Application/Zafiro.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/fischer/Projects/Zafiro/Zafiro.Application/Zafiro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fischer/Projects/Zafiro/Zafiro.Application/Zafiro.Application.csproj",
+        "projectName": "Zafiro.Application",
+        "projectPath": "/Users/fischer/Projects/Zafiro/Zafiro.Application/Zafiro.Application.csproj",
+        "packagesPath": "/Users/fischer/.nuget/packages/",
+        "outputPath": "/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fischer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fischer/Projects/Zafiro/Zafiro.Domain/Zafiro.Domain.csproj": {
+                "projectPath": "/Users/fischer/Projects/Zafiro/Zafiro.Domain/Zafiro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fischer/Projects/Zafiro/Zafiro.Domain/Zafiro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fischer/Projects/Zafiro/Zafiro.Domain/Zafiro.Domain.csproj",
+        "projectName": "Zafiro.Domain",
+        "projectPath": "/Users/fischer/Projects/Zafiro/Zafiro.Domain/Zafiro.Domain.csproj",
+        "packagesPath": "/Users/fischer/.nuget/packages/",
+        "outputPath": "/Users/fischer/Projects/Zafiro/Zafiro.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fischer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

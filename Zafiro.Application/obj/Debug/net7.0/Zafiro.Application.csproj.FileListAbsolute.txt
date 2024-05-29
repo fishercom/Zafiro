@@ -1,0 +1,15 @@
+/Users/fischer/Projects/Zafiro/Zafiro.Application/bin/Debug/net7.0/Zafiro.Application.deps.json
+/Users/fischer/Projects/Zafiro/Zafiro.Application/bin/Debug/net7.0/Zafiro.Application.dll
+/Users/fischer/Projects/Zafiro/Zafiro.Application/bin/Debug/net7.0/Zafiro.Application.pdb
+/Users/fischer/Projects/Zafiro/Zafiro.Application/bin/Debug/net7.0/Zafiro.Domain.dll
+/Users/fischer/Projects/Zafiro/Zafiro.Application/bin/Debug/net7.0/Zafiro.Domain.pdb
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.csproj.AssemblyReference.cache
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.AssemblyInfoInputs.cache
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.AssemblyInfo.cs
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.csproj.CoreCompileInputs.cache
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.csproj.CopyComplete
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.dll
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/refint/Zafiro.Application.dll
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/Zafiro.Application.pdb
+/Users/fischer/Projects/Zafiro/Zafiro.Application/obj/Debug/net7.0/ref/Zafiro.Application.dll
